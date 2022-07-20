@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/allaboutishaan/Universe"><img src="https://i.postimg.cc/50qnq8qP/banner.png"></a>
+  <a href="https://github.com/ishaantek/Universe"><img src="https://i.postimg.cc/50qnq8qP/banner.png"></a>
   <br>
   Universe Discord Bot
   <br>
@@ -59,7 +59,7 @@ Universe also comes packed with a variety of features, such as:
 
 You can add Universe to your server with [this](https://discord.com/api/oauth2/authorize?client_id=937468595032694824&permissions=8&scope=bot) link! Alternatively, you can clone this repo and host the bot yourself.
 ```
-git clone https://github.com/allaboutishaan/Universe.git
+git clone https://github.com/ishaantek/Universe.git
 ```
 After cloning, run an
 ```
@@ -120,4 +120,4 @@ Universe is in a continuous state of development. New features/updates may come 
 Released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 #
 
-Feel free to reach out to me through email at ishaan@allaboutishaan.com or [on Twitter](https://twitter.com/allaboutishaan) if you have any questions or feedback! Hope you find this useful 💙
+Feel free to reach out to me through email at ishaan@ishaantek.com or [on Twitter](https://twitter.com/ishaantek) if you have any questions or feedback! Hope you find this useful 💙
